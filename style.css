@@ -11,7 +11,7 @@ background: linear-gradient(to top, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996); /* W3C,
 
 }
 .parallax, .parallaxl{
-    background-image:url('/Images/Header.jpg');
+    background-image:url('Images/Header.jpg');
     height: max-content;
     background-attachment: fixed;
     background-position: center;
@@ -20,7 +20,7 @@ background: linear-gradient(to top, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996); /* W3C,
 }
 .page-title{
     background: rgba(223, 121, 121, 0.5);
-    background-image: url('/Images/footer3.jpg');
+    background-image:url('Images/footer3.jpg');
     text-align: center;
     color:rgb(238, 110, 25);
     padding: 50px;
